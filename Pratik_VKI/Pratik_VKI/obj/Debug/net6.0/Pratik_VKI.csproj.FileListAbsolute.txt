@@ -1,0 +1,15 @@
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\bin\Debug\net6.0\Pratik_VKI.exe
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\bin\Debug\net6.0\Pratik_VKI.deps.json
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\bin\Debug\net6.0\Pratik_VKI.runtimeconfig.json
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\bin\Debug\net6.0\Pratik_VKI.dll
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\bin\Debug\net6.0\Pratik_VKI.pdb
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\obj\Debug\net6.0\Pratik_VKI.csproj.AssemblyReference.cache
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\obj\Debug\net6.0\Pratik_VKI.GeneratedMSBuildEditorConfig.editorconfig
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\obj\Debug\net6.0\Pratik_VKI.AssemblyInfoInputs.cache
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\obj\Debug\net6.0\Pratik_VKI.AssemblyInfo.cs
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\obj\Debug\net6.0\Pratik_VKI.csproj.CoreCompileInputs.cache
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\obj\Debug\net6.0\Pratik_VKI.dll
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\obj\Debug\net6.0\refint\Pratik_VKI.dll
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\obj\Debug\net6.0\Pratik_VKI.pdb
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\obj\Debug\net6.0\Pratik_VKI.genruntimeconfig.cache
+C:\htders\htrepo\Pratik_VKI\Pratik_VKI\obj\Debug\net6.0\ref\Pratik_VKI.dll
