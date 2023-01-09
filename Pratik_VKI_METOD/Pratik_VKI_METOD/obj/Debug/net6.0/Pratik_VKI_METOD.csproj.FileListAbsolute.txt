@@ -1,0 +1,15 @@
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\bin\Debug\net6.0\Pratik_VKI_METOD.exe
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\bin\Debug\net6.0\Pratik_VKI_METOD.deps.json
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\bin\Debug\net6.0\Pratik_VKI_METOD.runtimeconfig.json
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\bin\Debug\net6.0\Pratik_VKI_METOD.dll
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\bin\Debug\net6.0\Pratik_VKI_METOD.pdb
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\obj\Debug\net6.0\Pratik_VKI_METOD.csproj.AssemblyReference.cache
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\obj\Debug\net6.0\Pratik_VKI_METOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\obj\Debug\net6.0\Pratik_VKI_METOD.AssemblyInfoInputs.cache
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\obj\Debug\net6.0\Pratik_VKI_METOD.AssemblyInfo.cs
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\obj\Debug\net6.0\Pratik_VKI_METOD.csproj.CoreCompileInputs.cache
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\obj\Debug\net6.0\Pratik_VKI_METOD.dll
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\obj\Debug\net6.0\refint\Pratik_VKI_METOD.dll
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\obj\Debug\net6.0\Pratik_VKI_METOD.pdb
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\obj\Debug\net6.0\Pratik_VKI_METOD.genruntimeconfig.cache
+C:\htders\htrepo\Pratik_VKI_METOD\Pratik_VKI_METOD\obj\Debug\net6.0\ref\Pratik_VKI_METOD.dll
