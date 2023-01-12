@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VKI_UserInterface_Layer", "VKI_UserInterFace_Layer\VKI_UserInterface_Layer.csproj", "{B09C591F-8C12-4D17-996F-D8040FD57866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VKI_Business_Layer", "VKI_Business_Layer\VKI_Business_Layer.csproj", "{4343EC02-FB03-4720-AA78-13F51D5C5768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B09C591F-8C12-4D17-996F-D8040FD57866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09C591F-8C12-4D17-996F-D8040FD57866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09C591F-8C12-4D17-996F-D8040FD57866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09C591F-8C12-4D17-996F-D8040FD57866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4343EC02-FB03-4720-AA78-13F51D5C5768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4343EC02-FB03-4720-AA78-13F51D5C5768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4343EC02-FB03-4720-AA78-13F51D5C5768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4343EC02-FB03-4720-AA78-13F51D5C5768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EFE84F9-B7A4-4A6C-A741-4FB232DA86D9}
+	EndGlobalSection
+EndGlobal
