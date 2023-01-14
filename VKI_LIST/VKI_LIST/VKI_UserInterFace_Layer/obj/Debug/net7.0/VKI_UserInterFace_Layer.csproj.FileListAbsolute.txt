@@ -19,3 +19,8 @@ C:\htders\htrepo\VKI_LIST\VKI_LIST\VKI_UserInterFace_Layer\bin\Debug\net7.0\VKI_
 C:\htders\htrepo\VKI_LIST\VKI_LIST\VKI_UserInterFace_Layer\bin\Debug\net7.0\VKI_Business_Layer.dll
 C:\htders\htrepo\VKI_LIST\VKI_LIST\VKI_UserInterFace_Layer\bin\Debug\net7.0\VKI_Business_Layer.pdb
 C:\htders\htrepo\VKI_LIST\VKI_LIST\VKI_UserInterFace_Layer\obj\Debug\net7.0\VKI_UserInterface_Layer.csproj.CopyComplete
+C:\htders\htrepo\VKI_LIST\VKI_LIST\VKI_UserInterFace_Layer\bin\Debug\net7.0\Data_Layer.deps.json
+C:\htders\htrepo\VKI_LIST\VKI_LIST\VKI_UserInterFace_Layer\bin\Debug\net7.0\Data_Layer.runtimeconfig.json
+C:\htders\htrepo\VKI_LIST\VKI_LIST\VKI_UserInterFace_Layer\bin\Debug\net7.0\Data_Layer.exe
+C:\htders\htrepo\VKI_LIST\VKI_LIST\VKI_UserInterFace_Layer\bin\Debug\net7.0\Data_Layer.dll
+C:\htders\htrepo\VKI_LIST\VKI_LIST\VKI_UserInterFace_Layer\bin\Debug\net7.0\Data_Layer.pdb

@@ -1,0 +1,1 @@
+[{"Ad":"halil","Soyad":"ekinci","TelNo":"195","Boy":80,"Kilo":80},{"Ad":"","Soyad":"aaa","TelNo":"333","Boy":10,"Kilo":80},{"Ad":"ali","Soyad":"ekinci","TelNo":"8347","Boy":160,"Kilo":100},{"Ad":"mehmet","Soyad":"demir","TelNo":"838374","Boy":180,"Kilo":80},{"Ad":"halil","Soyad":"y\u0131lmaz","TelNo":"8374744","Boy":197,"Kilo":90}]

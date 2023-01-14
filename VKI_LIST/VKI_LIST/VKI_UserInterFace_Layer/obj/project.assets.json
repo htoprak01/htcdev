@@ -2,9 +2,22 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "Data_Layer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Data_Layer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data_Layer.dll": {}
+        }
+      },
       "VKI_Business_Layer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Data_Layer": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/VKI_Business_Layer.dll": {}
         },
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "Data_Layer/1.0.0": {
+      "type": "project",
+      "path": "../Data_Layer/Data_Layer.csproj",
+      "msbuildProject": "../Data_Layer/Data_Layer.csproj"
+    },
     "VKI_Business_Layer/1.0.0": {
       "type": "project",
       "path": "../VKI_Business_Layer/VKI_Business_Layer.csproj",
