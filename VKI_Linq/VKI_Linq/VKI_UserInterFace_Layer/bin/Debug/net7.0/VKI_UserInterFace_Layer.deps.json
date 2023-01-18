@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VKI_UserInterface_Layer/1.0.0": {
+        "dependencies": {
+          "VKI_Business_Layer": "1.0.0"
+        },
+        "runtime": {
+          "VKI_UserInterface_Layer.dll": {}
+        }
+      },
+      "Data_Layer/1.0.0": {
+        "runtime": {
+          "Data_Layer.dll": {}
+        }
+      },
+      "VKI_Business_Layer/1.0.0": {
+        "dependencies": {
+          "Data_Layer": "1.0.0"
+        },
+        "runtime": {
+          "VKI_Business_Layer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VKI_UserInterface_Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Data_Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VKI_Business_Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
