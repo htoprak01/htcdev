@@ -1,0 +1,15 @@
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\bin\Debug\net7.0\CdrNet.Business.deps.json
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\bin\Debug\net7.0\CdrNet.Business.dll
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\bin\Debug\net7.0\CdrNet.Business.pdb
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\bin\Debug\net7.0\CdrNet.Data.Txt.dll
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\bin\Debug\net7.0\CdrNet.Data.Txt.pdb
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.csproj.AssemblyReference.cache
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.AssemblyInfoInputs.cache
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.AssemblyInfo.cs
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.csproj.CoreCompileInputs.cache
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.csproj.CopyComplete
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.dll
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\refint\CdrNet.Business.dll
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\CdrNet.Business.pdb
+C:\Users\halil.toprak\Desktop\C DERSLERI\17012023\CdrNet\CdrNet.Business\obj\Debug\net7.0\ref\CdrNet.Business.dll
